@@ -1,5 +1,4 @@
-﻿using AuroraUniversity.Domain;
-
+﻿
 public class Student
 {
     public Guid Id { get; } = Guid.NewGuid();

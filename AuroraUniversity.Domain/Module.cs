@@ -1,5 +1,4 @@
-﻿using AuroraUniversity.Domain;
-
+﻿
 public class Module
 {
     public Guid Id { get; } = Guid.NewGuid();
