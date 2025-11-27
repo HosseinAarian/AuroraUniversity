@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../AuroraUniversity.Domain/AuroraUniversity.Domain.csproj" />
+  <Project Path="../AuroraUniversity.Test/AuroraUniversity.Test.csproj" />
+  <Project Path="AuroraUniversity.API.csproj" />
+</Solution>
